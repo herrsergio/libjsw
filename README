@@ -1,0 +1,31 @@
+              J O Y S T I C K   W R A P P E R   L I B R A R Y
+
+                         V E R S I O N    1.5.8
+
+                 http://freshmeat.net/projects/libjsw
+
+
+-------------
+RELEASE NOTES
+
+	Updated documentation to reflect site change.
+
+
+------------
+INSTALLATION
+
+	Read INSTALL for compiling and installation instructions.
+
+
+---------
+INVENTORY
+
+	libjsw-#.#.#
+	|
+	+- include	Global include files.
+	+- jswdemos	Simple example programs using libjsw.
+	+- libjsw	Joystick Wrapper library.
+	+- jscalibrator	Joystick Calibrator.
+
+                                                                 ------
+                                                                 LIBJSW
